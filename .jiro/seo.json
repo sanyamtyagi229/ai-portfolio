@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "site": {
+    "brand": "Sanyam Tyagi",
+    "language": "en",
+    "title": "Sanyam Tyagi — Aspiring AI/ML Engineer",
+    "description": "Portfolio of Sanyam Tyagi, an aspiring AI/ML Engineer and B.Tech Artificial Intelligence & Data Science student at SLIET Longowal, building with Python and ML.",
+    "indexing": true,
+    "favicon": null,
+    "socialImage": null
+  },
+  "pages": [
+    {
+      "path": "/",
+      "title": "Sanyam Tyagi — Aspiring AI/ML Engineer",
+      "description": "Portfolio of Sanyam Tyagi, an aspiring AI/ML Engineer and B.Tech Artificial Intelligence & Data Science student at SLIET Longowal, building with Python and ML."
+    }
+  ]
+}
