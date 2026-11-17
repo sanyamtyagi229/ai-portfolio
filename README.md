@@ -1,21 +1,6 @@
-# Your site, exported from Jiro
+# 🚀 AI & ML Portfolio
 
-This is a complete Vite + React + TypeScript project — your code is yours.
+Personal portfolio website showcasing my machine learning projects, data science research, and full-stack web applications. Built with React, Vite, and TypeScript.
 
-## Run it locally
-
-```bash
-npm install
-npm run dev
-```
-
-Then open the URL it prints (usually http://localhost:5173).
-
-## Build for production
-
-```bash
-npm run build
-```
-
-Note: uploaded images/assets aren't included in this export yet — only your
-site's code. Anything referenced by a URL still points at where it's hosted.
+- 🌐 **Live Website:** [sanyamtyagi229.github.io/Portfolio](https://sanyamtyagi229.github.io/Portfolio/)
+- 💻 **Tech Stack:** React, Vite, TypeScript, Tailwind CSS
